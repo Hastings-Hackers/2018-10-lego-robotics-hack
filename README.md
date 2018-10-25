@@ -24,5 +24,4 @@ Other ideas that would require changing the robot:
 
 The above isn't exhaustive, just what I can remember us discussing as I write this the morning after :) Feel free to add things we discussed/ideas as PRs
 
-
 GIF video made from iPhone footage by installing `ffmpeg`, `imagemagick`, and `gifsicle`, and setting up my OhMyZSH installation to have the `gifify` command [this guy gives](https://gist.github.com/SlexAxton/4989674).
