@@ -2,7 +2,7 @@
 
 October's fun with a Lego Mindstorms NXT robot, this was a 2 hour hack event. We set up a simple 2-wheeled vehicle that used ant-like behavior to follow a path made of blue masking tape.
 
-[![Our ant robot in action](robot.jpg)](robot.mp4)
+![Our ant robot in action](robot.gif)
 
 We tried different approaches to trying to find the line once it had been lost, including:
 
@@ -23,3 +23,6 @@ Other ideas that would require changing the robot:
 - Add a second light sensor so we had an idea of which direction we needed to turn in to find the line again
 
 The above isn't exhaustive, just what I can remember us discussing as I write this the morning after :) Feel free to add things we discussed/ideas as PRs
+
+
+GIF video made from iPhone footage by installing `ffmpeg`, `imagemagick`, and `gifsicle`, and setting up my OhMyZSH installation to have the `gifify` command [this guy gives](https://gist.github.com/SlexAxton/4989674).
